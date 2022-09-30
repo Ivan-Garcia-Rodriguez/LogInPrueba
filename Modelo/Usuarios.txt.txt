@@ -1,0 +1,2 @@
+ Juan ;12345 ;administrador;
+ Pedro;54321 ;mindundi;
